@@ -1,0 +1,12 @@
+name: Sower
+version: ${project.version}
+main: lengmou.sower.Sower
+authors: [ LengMou ]
+description: Plant your crops quickly
+commands:
+  sower:
+    description: swoer commands
+permissions:
+  sower.admin:
+    description: permissions This permission is used to toggle modes, switch on and off plugins.
+    default: op

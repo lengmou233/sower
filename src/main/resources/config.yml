@@ -1,0 +1,4 @@
+# 设置为false 将关闭该插件的所有功能
+sower: true
+# 开启后模式将改为 右键农作物进行收割 破坏自动补种将不会再生效
+interaction: false
